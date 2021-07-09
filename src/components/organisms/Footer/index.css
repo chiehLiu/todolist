@@ -1,0 +1,10 @@
+.footer {
+	width: 100%;
+	background-color: var(--standard);
+	position: absolute;
+	bottom: 0;
+	padding: 1rem;
+	font-size: 16px;
+	color: white;
+	font-weight: bolder;
+}
