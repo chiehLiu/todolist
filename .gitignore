@@ -1,10 +1,13 @@
 # node
 node_modules/*
 *.log
+
 # build
 _public/*
+
 # test
 coverage/*
+
 # subfolder
 **/*/.jest-test-results.json
 **/*/node_modules/*
